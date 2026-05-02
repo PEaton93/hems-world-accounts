@@ -1,0 +1,14 @@
+{
+  "name": "Hems World Accounts",
+  "short_name": "HW Accounts",
+  "description": "Income, expenses and tax tracking for Hems World Designs",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
